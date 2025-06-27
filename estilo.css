@@ -1,5 +1,29 @@
 body{
-    background-color: red;
+    background-color: whitesmoke;
+}
+
+#logoHeader{
+    border: 2px solid rgb(60, 60, 234);
+    width: 110px;
+}
+.header{
+   
+    display: flex;
+    
+}
+
+#nombreCarro{
+    font-size: 3em;
+    border: 2px solid black;
+    padding: 83.5px 3em -2em 3em;
+    margin: auto;
+}
+
+#imagenPrincipal{
+display: flex;
+padding: 0px 21em 0px ;
+border: 2px solid greenyellow;
+
 }
 
 h2{
